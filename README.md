@@ -1,4 +1,5 @@
 # Meraki Dashboard with Google Scripts & Forms
+Credit to Cory Guynn (internetoflego.com) for the registration form example and this README
 
 ## Overview
 
